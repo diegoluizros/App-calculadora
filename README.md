@@ -1,5 +1,5 @@
 # App calculadora
-A new Flutter project.
+Sistema de calculadora desenvolvido para a atividade do modulo 3 da disciplina Desenvolvimento WEB
 
 ## Getting Started
 
